@@ -12,4 +12,4 @@ This WordPress plugin allows you to dynamically set a WooCommerce product as you
 3. Go to **Settings > Reading** to select your homepage product.
 
 ## Author:
-[Your Name](https://github.com/chxikva)
+[Me](https://github.com/chxikva)
